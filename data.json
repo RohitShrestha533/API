@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with React",
+      "description": "Learn the basics of React and build your first app.",
+      "author": "Rohit Shrestha",
+      "date": "2026-03-20",
+      "tags": ["react", "javascript", "frontend"]
+    },
+    {
+      "id": 2,
+      "title": "Understanding Redux Toolkit",
+      "description": "A beginner-friendly guide to managing state efficiently.",
+      "author": "Rohit Shrestha",
+      "date": "2026-03-22",
+      "tags": ["redux", "state-management"]
+    },
+    {
+      "id": 3,
+      "title": "Tailwind CSS Tips",
+      "description": "Speed up your UI development using Tailwind CSS.",
+      "author": "Rohit Shrestha",
+      "date": "2026-03-25",
+      "tags": ["tailwind", "css"]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Rohit Shrestha",
+      "email": "rohit@example.com",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Sita Sharma",
+      "email": "sita@example.com",
+      "role": "editor"
+    }
+  ]
+}
